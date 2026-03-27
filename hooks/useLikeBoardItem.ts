@@ -50,7 +50,7 @@ export function useLikeBoardItem(itemId: string) {
       likesQuery.refetch();
       likedQuery.refetch();
       setFeedback(`点赞成功，交易哈希 ${hash.slice(0, 10)}...`);
-      trackTransaction("69c626892f29a15e2b91ed09", "like-board", address, hash);
+      trackTransaction("app-001", "like-board", address, hash);
     }
   }, [address, hash, itemId, likedQuery, likesQuery, receipt.isSuccess]);
 
