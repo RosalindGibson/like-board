@@ -123,3 +123,12 @@ Use only the command that applies to the files and tooling present in the projec
 The exact structure should be documented as the project evolves.
 
 When adding new files or directories, consider updating this section with a brief explanation of their purpose.
+
+Suggested documentation format:
+
+```text
+like-board/
+  README.md        Project documentation
+  src/             Application source files
+  tests/           Test files
+```
