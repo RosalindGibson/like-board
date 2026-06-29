@@ -45,3 +45,11 @@ ls
 Look for common project files such as:
 
 - `package.json`
+- `requirements.txt`
+- `pyproject.toml`
+- `Gemfile`
+- `Cargo.toml`
+- `go.mod`
+- `Makefile`
+
+If a dependency file is present, install dependencies using the appropriate tool for that stack.
