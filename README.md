@@ -148,3 +148,11 @@ When making changes:
 - Include tests when practical.
 
 ## Notes
+
+This README is intended to provide a clean foundation for the `like-board` project.
+
+As more details become available, update this file with specific setup, usage, testing, and deployment instructions.
+
+The canonical repository location is:
+
+<https://github.com/RosalindGibson/like-board.git>
