@@ -101,3 +101,11 @@ git checkout -b your-change-name
 ## Testing
 
 If the repository includes a test command, run it before submitting changes.
+
+Possible test commands depend on the project stack and may include:
+
+```bash
+npm test
+```
+
+```bash
