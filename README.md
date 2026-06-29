@@ -109,3 +109,9 @@ npm test
 ```
 
 ```bash
+pytest
+```
+
+```bash
+make test
+```
