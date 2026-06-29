@@ -37,3 +37,11 @@ cd like-board
 ## Setup
 
 After cloning the repository, inspect the files to determine the project stack:
+
+```bash
+ls
+```
+
+Look for common project files such as:
+
+- `package.json`
