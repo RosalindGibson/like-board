@@ -21,3 +21,11 @@ Because the original project documentation is minimal, the instructions below ar
 - Suitable structure for incremental updates and maintenance.
 
 ## Repository
+
+Clone the repository with:
+
+```bash
+git clone https://github.com/RosalindGibson/like-board.git
+```
+
+Then move into the project directory:
