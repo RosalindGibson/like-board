@@ -140,3 +140,11 @@ Adjust this example to match the actual repository contents.
 Contributions should keep the project clear, maintainable, and easy to run.
 
 When making changes:
+
+- Keep commits focused.
+- Use descriptive commit messages.
+- Avoid unrelated formatting changes.
+- Update documentation when behavior changes.
+- Include tests when practical.
+
+## Notes
