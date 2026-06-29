@@ -93,3 +93,11 @@ A simple development workflow is:
 5. Review the changes before opening a pull request.
 
 Example branch command:
+
+```bash
+git checkout -b your-change-name
+```
+
+## Testing
+
+If the repository includes a test command, run it before submitting changes.
