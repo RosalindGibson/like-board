@@ -115,3 +115,11 @@ pytest
 ```bash
 make test
 ```
+
+Use only the command that applies to the files and tooling present in the project.
+
+## Project Structure
+
+The exact structure should be documented as the project evolves.
+
+When adding new files or directories, consider updating this section with a brief explanation of their purpose.
