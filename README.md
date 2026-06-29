@@ -77,3 +77,11 @@ Common places to check include:
 - Application source directories
 - Test directories
 - Build or run scripts
+- Configuration files
+- Existing comments or inline documentation
+
+If a `README`, script section, or make target is added later, prefer those project-specific instructions over generic commands.
+
+## Development Workflow
+
+A simple development workflow is:
