@@ -53,3 +53,11 @@ Look for common project files such as:
 - `Makefile`
 
 If a dependency file is present, install dependencies using the appropriate tool for that stack.
+
+For example, if the project includes a `package.json`, you may typically run:
+
+```bash
+npm install
+```
+
+If the project includes a `requirements.txt`, you may typically run:
