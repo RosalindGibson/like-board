@@ -85,3 +85,11 @@ If a `README`, script section, or make target is added later, prefer those proje
 ## Development Workflow
 
 A simple development workflow is:
+
+1. Clone the repository.
+2. Create a new branch for your change.
+3. Make edits in small, focused commits.
+4. Run any available tests or checks.
+5. Review the changes before opening a pull request.
+
+Example branch command:
