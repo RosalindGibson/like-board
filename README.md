@@ -13,3 +13,11 @@ This README provides a clear starting point for working with the project locally
 Because the original project documentation is minimal, the instructions below are intentionally practical and conservative. They avoid assuming a specific framework, runtime, or deployment target until those details are confirmed in the codebase.
 
 ## Features
+
+- Source code tracked in a public Git repository.
+- Project identity preserved as `like-board`.
+- Simple local setup workflow using Git.
+- Room for future documentation as the project grows.
+- Suitable structure for incremental updates and maintenance.
+
+## Repository
