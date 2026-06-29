@@ -61,3 +61,11 @@ npm install
 ```
 
 If the project includes a `requirements.txt`, you may typically run:
+
+```bash
+pip install -r requirements.txt
+```
+
+Only run commands that match the files and tooling actually present in the repository.
+
+## Usage
