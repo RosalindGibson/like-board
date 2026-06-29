@@ -132,3 +132,11 @@ like-board/
   src/             Application source files
   tests/           Test files
 ```
+
+Adjust this example to match the actual repository contents.
+
+## Contributing
+
+Contributions should keep the project clear, maintainable, and easy to run.
+
+When making changes:
