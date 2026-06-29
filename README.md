@@ -69,3 +69,11 @@ pip install -r requirements.txt
 Only run commands that match the files and tooling actually present in the repository.
 
 ## Usage
+
+Start by reviewing the project files and any scripts, entry points, or configuration included in the repository.
+
+Common places to check include:
+
+- Application source directories
+- Test directories
+- Build or run scripts
