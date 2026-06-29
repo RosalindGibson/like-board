@@ -29,3 +29,11 @@ git clone https://github.com/RosalindGibson/like-board.git
 ```
 
 Then move into the project directory:
+
+```bash
+cd like-board
+```
+
+## Setup
+
+After cloning the repository, inspect the files to determine the project stack:
